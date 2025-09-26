@@ -1,0 +1,35 @@
+﻿.card {
+  background-color: #ffffff;
+  padding: 16px;
+}
+.card__title {
+  color: #282828;
+  font-size: 14px;
+}
+.card__description {
+  color: #282828;
+  font-size: 12px;
+}
+.card__img-top {
+  width: 288px;
+  height: 182px;
+  display: block;
+  margin-bottom: 8px;
+  object-fit: cover;
+}
+body {
+  margin: 0;
+  background-color: #C4C4C4; /* 背景をグレー */
+}
+
+header {
+  background-color: #ffffff; /* 白 */
+  width: 100%;
+  height: 80px; /* 高さは自由 */
+}
+
+footer {
+  background-color: #ffffff; /* 白 */
+  width: 100%;
+  height: 80px; /* 高さは自由 */
+}
